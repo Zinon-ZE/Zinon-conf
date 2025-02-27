@@ -15,7 +15,7 @@ I'm **Zinon**, a cybersecurity enthusiast. Here you'll find my latest projects o
 - Malware Analysis 
 
 ## 📈 GitHub Stats:
-![Zinon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zinon16&show_icons=true&hide_title=true)
+![Zinon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zinon-ZE&show_icons=true&count_private=true&theme=radical)
 
 
 ## ⚡ Fun Facts
