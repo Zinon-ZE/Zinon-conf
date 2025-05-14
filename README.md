@@ -19,5 +19,5 @@ I'm **Zinon**, a cybersecurity enthusiast. Here you'll find my latest projects o
 
 
 ## ⚡ Fun Facts
-- I'm a nerd wth no life :V
 - I’m working on improving my reverse engineering skills and **finding CVEs**! 🛠
+- A nerd with life
